@@ -151,9 +151,6 @@ Poor work-life balance (ratings 1–2) strongly increases attrition.
 
 ### ✔ Version Control  
 - Git  
-- GitHub  
-
----
-
-# 📁 7. Project Structure
+- GitHub
+  
 
